@@ -1,0 +1,14 @@
+.venv
+/instagram_downloads
+/notebooks
+*/__pycache__
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+.env.*
+*.log
+*.csv
+*.xlsx
+*.json
